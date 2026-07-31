@@ -1,0 +1,6 @@
+{
+  "name": "Subscription Tracker",
+  "description": "A minimalist subscription tracker app built with React, Tailwind CSS, and Firebase Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
