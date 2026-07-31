@@ -1,6 +1,6 @@
 {
-  "name": "Subscription Tracker",
-  "description": "A minimalist subscription tracker app built with React, Tailwind CSS, and Firebase Firestore.",
+  "name": "Abonelik Takibi",
+  "description": "Aylık ve yıllık tüm dijital servis aboneliklerinizi, faturalarınızı ve ödeme tarihlerinizi kolayca takip edin.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
